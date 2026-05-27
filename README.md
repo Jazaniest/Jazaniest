@@ -1,12 +1,13 @@
 <div align="center">
 
-# 👋 Hi there, I'm M. Abdillah Aljazani (JZX)
+# 👋 Hi there, I'm M. Abdillah Aljazani 
 ### 💻 Full Stack Web Developer & IoT Enthusiast
 
 <img src="https://komarev.com/ghpvc/?username=Jazaniest&label=Profile%20views&color=7928CA&style=for-the-badge" alt="profile views" />
 
 [![Email](https://img.shields.io/badge/Email-jazaniezt07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jazaniezt07@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Jazaniest-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jazaniest)
+[![Website](https://img.shields.io/badge/Website-jazaniest.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jazaniest.vercel.app)
 
 ---
 
@@ -45,32 +46,30 @@ const jzx = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jazaniest&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jazaniest&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jazaniest&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jazaniest&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
 
-<br>
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jazaniest&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
-</div>
+<p align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jazaniest&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jazaniest&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jazaniest&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
-</div>
+</p>
 
 ---
 
